@@ -1,0 +1,9 @@
+Thank you sir first of all I want to Introduce my Weather App Project using OpenWeather API,it is an app which shows Weather Specifically temperature, humidity and wind speed of the entered city by the user.
+
+Here I used VS Code as the editor as it provides tons of helping environment and tools, such as Tabnine Extension which helped me to code easily amd faster, one of the extensions were React Icons which were of great help for me to import icons for my page such as navagation bar and search box or search icon.
+
+As you know in my app we have a special feature i.e. it changes the background of the page based on the city the user searches, this was done possible using the Unsplash Image API where on inputting the city using javascript I was able to change the background on each search, I have also used different font which were available on Open Sans fonts.googleapis 
+
+The heart of the app is the use of OpenWeather API which provides me with the details of each city I searched for in json format which is parsed and displayed to the user using functions made by me such as displayweather and fetchweather  which does the API call using the unique API key given for my use,
+
+Finally as the user starts the page there is no city entered so, I created a loading style in css which would be default called when page starts and will show leading... on the start screen, and when the user searches, the specific city weather report will be made available.
